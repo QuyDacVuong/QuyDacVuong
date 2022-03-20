@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuyDacVuong
 - 👀 I’m interested in SRE/DevOps
 - 🌱 I’m currently learning all things DevOps
-- 💞️ I’m looking to collaborate on ___
+- 💞️ I’m looking to collaborate on ______
 - 📫 How to reach me quydac.vuong@gmail.com
 
 <!---
